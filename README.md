@@ -20,8 +20,10 @@ end
 
 以下は事前に導入済みです。
 
+
 - `rails g controller`コマンドで生成されるファイルの設定
-　- `config/initializers/generators.rb`
+  - `config/initializers/generators.rb`
 - プルリクのテンプレートの設定
-　- `.github/pull_request_template.md`
+  - `.github/pull_request_template.md`
 - RuboCop の導入
+- 
